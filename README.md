@@ -1,1 +1,6 @@
 # VideoStabilizer
+
+## Requirements
+
+- Numpy
+- OpenCV
